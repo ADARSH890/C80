@@ -1,0 +1,8 @@
+body{
+    background:linear-gradient(yellow 0%,red 100%);
+}
+#sorting_button{
+    display:none;
+    
+}  
+ 
